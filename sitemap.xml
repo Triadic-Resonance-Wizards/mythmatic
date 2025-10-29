@@ -3,9 +3,13 @@
   <!-- Root landing page -->
   <url>
     <loc>https://dev.mythmatic.org/</loc>
-    <priority>0.8</priority>
+    <priority>1.0</priority>
   </url>
   <!-- Cross-linked sibling domains -->
+  <url>
+    <loc>https://dev.vgateway.net/</loc>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://dev.umaywant2.win/</loc>
     <priority>0.8</priority>
@@ -21,10 +25,6 @@
   <url>
     <loc>https://dev.umaywant2.com/</loc>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dev.vgateway.net/</loc>
-    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://dev.mythmatical.org/</loc>
