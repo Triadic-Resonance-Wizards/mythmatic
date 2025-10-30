@@ -1,5 +1,5 @@
 (async () => {
-  const GLOSSARY_URL = "glossary.json";
+  const GLOSSARY_URL = "/glossary.json";
 
   const container = document.createElement("div");
   container.id = "glyph-field";
