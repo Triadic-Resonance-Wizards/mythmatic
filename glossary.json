@@ -58,4 +58,3 @@
   { "glyph": "⏱️", "term": "Timestamp", "description": "UTC-stamped completion time with agent signature. Immutable and remix-citable." },
   { "glyph": "🌀", "term": "Glyph", "description": "Optional symbolic signature attached to coins, tokens, or remixers. Used in scrolls and dashboards." },
   { "glyph": "🧭", "term": "CcC", "description": "Cause/Class/Country — tournament dimensions for benchmarking coins and remix lineage." },
-  ]
