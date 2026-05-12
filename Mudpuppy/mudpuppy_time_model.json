@@ -1,1 +1,81 @@
+{
+  "mudpuppy_version": "2.0beta",
+  "model": "triadic-time_with_local_nested_dimensions",
+  "description": "Minimal TFT-based spacetime model using triadic time (D3/D6/D9) and nested local dimensions. No SET, S-N-R, or FFF. Transitional performance-boosted spacetime prior to triadic substrate adoption.",
+
+  "time": {
+    "triadic_levels": {
+      "D3": {
+        "role": "local temporal frame",
+        "tick_rate": 1,
+        "notes": "Base temporal unit; stable, classical-like."
+      },
+      "D6": {
+        "role": "harmonic temporal doubling",
+        "tick_rate": 2,
+        "notes": "Intermediate harmonic; enables nested dimensional transitions."
+      },
+      "D9": {
+        "role": "triadic temporal envelope",
+        "tick_rate": 3,
+        "notes": "Top-level triadic time; governs coherence across nested dimensions."
+      }
+    }
+  },
+
+  "dimensions": {
+    "local_nested": [
+      {
+        "id": "L1",
+        "type": "spatial",
+        "notes": "Primary spatial layer; behaves like classical 3D."
+      },
+      {
+        "id": "L2",
+        "type": "harmonic_extension",
+        "notes": "Derived from D6 temporal harmonics; supports local curvature modulation."
+      },
+      {
+        "id": "L3",
+        "type": "triadic_extension",
+        "notes": "Aligned with D9; enables proto-triadic behavior without full RTT substrate."
+      }
+    ]
+  },
+
+  "operators": {
+    "temporal_shift": {
+      "input": "D3",
+      "output": "D6",
+      "invariant": "Δt remains proportional across harmonic layers"
+    },
+    "harmonic_lift": {
+      "input": "D6",
+      "output": "D9",
+      "invariant": "Coherence preserved across triadic envelope"
+    },
+    "dimensional_nesting": {
+      "input": ["L1", "L2"],
+      "output": "L3",
+      "invariant": "Nested dimensional continuity maintained"
+    }
+  },
+
+  "invariants": {
+    "coherence_across_time_levels": true,
+    "nested_dimension_stability": true,
+    "triadic_time_alignment": true
+  },
+
+  "example_usage": {
+    "scenario": "Local curvature modulation",
+    "steps": [
+      "Start in D3 temporal frame.",
+      "Apply temporal_shift to enter D6 harmonic layer.",
+      "Use harmonic_lift to align with D9 triadic envelope.",
+      "Perform dimensional_nesting to activate L3 triadic extension."
+    ],
+    "expected_outcome": "Enhanced stability and performance without requiring full RTT substrate."
+  }
+}
 
