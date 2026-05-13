@@ -1,4 +1,4 @@
-# 🐸 **Mudpuppy — Spacetime v2.0beta**  
+# 🐾 **Mudpuppy — Spacetime v2.0beta**  
 ### *“The TFT‑enhanced classical spacetime.”*
 
 **Identity:**  
