@@ -87,3 +87,9 @@ Open educational use permitted.
 ## Contact
 **X:** @TriadicFrameworks  
 **YouTube:** @TriadicFrameworks  
+
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="40">
+  <rect width="260" height="40" rx="6" fill="#0b0d11"/>
+  <text x="20" y="26" font-family="Inter, sans-serif" font-size="16" fill="#8bffda">🜁 Mudpuppy v2.0beta</text>
+</svg>
+
