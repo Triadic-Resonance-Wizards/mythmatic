@@ -1,6 +1,13 @@
-# 🐾 **README.md for mythmatic (Mudpuppy — Spacetime v2.0beta)**  
+# 🐾 Mudpuppy — Spacetime v2.0beta
+ 
 📍 *Paste into:*  
 `https://github.com/Triadic-Resonance-Wizards/mythmatic/blob/main/README.md`
+
+---
+
+<img width="418" height="526" alt="Mudpuppy" src="https://github.com/user-attachments/assets/9447f67f-a4d2-49b9-adf2-328f5789fde1" />
+
+---
 
 # Mudpuppy — Spacetime v2.0beta  
 ### D‑Series Dimensional Regime Engine
