@@ -1,0 +1,31 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mudpuppyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f7cff"/>
+      <stop offset="40%" stop-color="#6ad1ff"/>
+      <stop offset="70%" stop-color="#8bffda"/>
+      <stop offset="100%" stop-color="#c792ea"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="600" fill="#0b0d11"/>
+
+  <!-- Dimensional Glyph -->
+  <circle cx="300" cy="240" r="120" fill="none" stroke="url(#mudpuppyGradient)" stroke-width="18"/>
+  <path d="M180 240 L300 120 L420 240 L300 360 Z" fill="none" stroke="url(#mudpuppyGradient)" stroke-width="14"/>
+
+  <!-- Title -->
+  <text x="300" y="440" font-family="Inter, sans-serif" font-size="44" fill="white" text-anchor="middle">
+    Mudpuppy
+  </text>
+
+  <!-- Subtitle -->
+  <text x="300" y="490" font-family="Inter, sans-serif" font-size="28" fill="#8bffda" text-anchor="middle">
+    Spacetime v2.0beta
+  </text>
+
+  <!-- Tagline -->
+  <text x="300" y="530" font-family="Inter, sans-serif" font-size="20" fill="#6ad1ff" text-anchor="middle">
+    D‑Series Dimensional Regime Engine
+  </text>
+</svg>
