@@ -13,16 +13,16 @@ This makes Mudpuppy ideal for:
 
 ## 📦 Included Minimal Examples
 
-### 1. `mudpuppy_time_model.json`
+### 1. [`mudpuppy_time_model.json`](./mudpuppy_time_model.json)
 Triadic-time model using D3/D6/D9 with no RTT substrate.
 
-### 2. `mudpuppy_dimensional_core.json`
+### 2. [`mudpuppy_dimensional_core.json`](./mudpuppy_dimensional_core.json)
 Nested spatial layers (L1/L2/L3) aligned with triadic-time.
 
-### 3. `mudpuppy_operator_set.json`
+### 3. [`mudpuppy_operator_set.json`](./mudpuppy_operator_set.json)
 TFT-only operator set for temporal uplift and dimensional nesting.
 
-### 4. `mudpuppy_harmonic_region_model.json`
+### 4. [`mudpuppy_harmonic_region_model.json`](./mudpuppy_harmonic_region_model.json)
 Minimal harmonic region model demonstrating uplift and stability.
 
 ## 🧠 Purpose
