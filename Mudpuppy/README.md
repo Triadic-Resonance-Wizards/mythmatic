@@ -1,4 +1,4 @@
-# 🐸 Mudpuppy — Spacetime v2.0beta  
+# 🐾 Mudpuppy — Spacetime v2.0beta  
 ### TFT-Based Transitional Spacetime (Triadic-Time, No RTT Substrate)
 
 Mudpuppy is the **bridge framework** between classical spacetime and full triadic substrate physics.  
