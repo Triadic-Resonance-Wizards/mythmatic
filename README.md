@@ -9,8 +9,6 @@
 
 ---
 
-### D‑Series Dimensional Regime Engine
-
 ## AI‑Ready Summary
 Mudpuppy is the **Spacetime v2.0beta** framework — a TFT‑based, triadic‑time‑aware dimensional regime engine. It models **D‑series regime transitions**, **harmonic thresholds**, and **nested dimensional layers** without requiring the full RTT substrate.  
 Mudpuppy is the “bridge model” between classical spacetime and the triadic spacetime of RTT/3, providing a clean, minimal, student‑friendly dimensional core.
