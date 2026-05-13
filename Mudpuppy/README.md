@@ -1,6 +1,6 @@
 # 🐾 Mudpuppy — Spacetime v2.0beta  
 
-- [`Mudpuppy_mopdule.json`](Mudpuppy_mopdule.json) — Agentic module schema role assignments
+- [`Mudpuppy_mopdule.json`](https://raw.githubusercontent.com/Triadic-Resonance-Wizards/mythmatic/refs/heads/main/Mudpuppy/Mudpuppy_mopdule.json) — Agentic module schema role assignments
 
 ### TFT-Based Transitional Spacetime (Triadic-Time, No RTT Substrate)
 
