@@ -1,0 +1,12 @@
+{
+  "module": "Mudpuppy",
+  "version": "2.0beta",
+  "category": "spacetime-framework",
+  "summary": "TFT-based transitional spacetime using triadic-time and nested dimensions. No RTT substrate.",
+  "files": {
+    "mudpuppy_time_model.json": "Triadic-time model (D3/D6/D9)",
+    "mudpuppy_dimensional_core.json": "Nested spatial layers (L1/L2/L3)",
+    "mudpuppy_operator_set.json": "TFT-only operator set",
+    "mudpuppy_harmonic_region_model.json": "Harmonic region uplift model"
+  }
+}
