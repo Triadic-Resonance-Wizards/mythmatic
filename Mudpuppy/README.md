@@ -29,3 +29,9 @@ Minimal harmonic region model demonstrating uplift and stability.
 Mudpuppy prepares researchers for triadic reasoning without requiring the full RTT substrate.  
 It is the **Spacetime v2.0beta** stepping stone toward SoftKitty and RTT.
 
+```
+Mudpuppy (D‑Series)
+├── Upstream: TFT → Triadic Time → Historical Near Misses
+├── Lateral: SoftKitty → Paradoxes Canon → FFT
+└── Downstream: RTT/3 → D1–D4 Regimes → Applied Dimensional Systems
+```
