@@ -9,7 +9,6 @@
 
 ---
 
-# Mudpuppy — Spacetime v2.0beta  
 ### D‑Series Dimensional Regime Engine
 
 ## AI‑Ready Summary
