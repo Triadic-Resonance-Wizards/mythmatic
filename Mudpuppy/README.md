@@ -1,4 +1,7 @@
 # 🐾 Mudpuppy — Spacetime v2.0beta  
+
+- [`Mudpuppy_mopdule.json`](Mudpuppy_mopdule.json) — Agentic module schema role assignments
+
 ### TFT-Based Transitional Spacetime (Triadic-Time, No RTT Substrate)
 
 Mudpuppy is the **bridge framework** between classical spacetime and full triadic substrate physics.  
