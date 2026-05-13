@@ -1,1 +1,52 @@
+{
+  "mudpuppy_version": "2.0beta",
+  "model": "tft_operator_set_minimal",
+  "description": "Minimal operator set for Mudpuppy (Spacetime v2.0beta). TFT-only operators aligned with triadic-time and nested spatial layers. No SET, S-N-R, or FFF.",
+
+  "operators": {
+    "temporal_shift": {
+      "input_time_layer": "D3",
+      "output_time_layer": "D6",
+      "invariant": "Temporal proportionality preserved",
+      "notes": "Moves from base temporal frame to harmonic uplift."
+    },
+    "harmonic_lift": {
+      "input_time_layer": "D6",
+      "output_time_layer": "D9",
+      "invariant": "Harmonic coherence maintained",
+      "notes": "Aligns with triadic temporal envelope."
+    },
+    "dimensional_nest": {
+      "from_layer": "L1",
+      "to_layer": "L2",
+      "invariant": "Spatial continuity preserved",
+      "notes": "Activates harmonic spatial extension."
+    },
+    "triadic_extension": {
+      "from_layer": "L2",
+      "to_layer": "L3",
+      "invariant": "Triadic alignment maintained",
+      "notes": "Enables proto-triadic dimensional behavior."
+    },
+    "core_stabilizer": {
+      "inputs": ["L1", "L2", "L3"],
+      "output": "stable_region",
+      "invariant": "All layers remain mutually consistent under triadic-time",
+      "notes": "Ensures stability across nested spatial layers."
+    }
+  },
+
+  "example_usage": {
+    "scenario": "Triadic-time aligned region uplift",
+    "steps": [
+      "Begin in D3 and L1.",
+      "Apply temporal_shift to enter D6.",
+      "Apply dimensional_nest to activate L2.",
+      "Use harmonic_lift to align with D9.",
+      "Apply triadic_extension to activate L3.",
+      "Stabilize region using core_stabilizer."
+    ],
+    "expected_outcome": "A stable triadic-time aligned region using TFT-only operators."
+  }
+}
 
