@@ -1,0 +1,50 @@
+{
+  "mudpuppy_version": "2.0beta",
+  "model": "harmonic_region_model_minimal",
+  "description": "Minimal harmonic region model for Mudpuppy (Spacetime v2.0beta). TFT-only, triadic-time aligned, no SET/S-N-R/FFF. Demonstrates harmonic uplift and nested region stability.",
+
+  "region_model": {
+    "base_region": {
+      "layer": "L1",
+      "time_frame": "D3",
+      "notes": "Classical-like region; stable and intuitive."
+    },
+    "harmonic_region": {
+      "layer": "L2",
+      "time_frame": "D6",
+      "notes": "Harmonic uplift region; supports curvature modulation."
+    },
+    "triadic_region": {
+      "layer": "L3",
+      "time_frame": "D9",
+      "notes": "Proto-triadic region; early-stage triadic behavior."
+    }
+  },
+
+  "operators_used": [
+    "temporal_shift",
+    "harmonic_lift",
+    "dimensional_nest",
+    "triadic_extension",
+    "core_stabilizer"
+  ],
+
+  "invariants": {
+    "harmonic_alignment": true,
+    "nested_region_stability": true,
+    "triadic_time_consistency": true
+  },
+
+  "example_usage": {
+    "scenario": "Constructing a harmonic region from a classical base region",
+    "steps": [
+      "Begin with base_region in L1/D3.",
+      "Apply temporal_shift to enter D6.",
+      "Use dimensional_nest to activate L2 harmonic region.",
+      "Apply harmonic_lift to align with D9.",
+      "Use triadic_extension to activate L3 triadic region.",
+      "Stabilize using core_stabilizer."
+    ],
+    "expected_outcome": "A stable harmonic region aligned with triadic-time layers using TFT-only constructs."
+  }
+}
