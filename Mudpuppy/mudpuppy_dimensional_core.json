@@ -1,0 +1,65 @@
+{
+  "mudpuppy_version": "2.0beta",
+  "model": "dimensional_core_minimal",
+  "description": "Minimal TFT-based dimensional core for Mudpuppy (Spacetime v2.0beta). Uses triadic-time alignment and nested spatial layers. No SET, S-N-R, or FFF. Transitional core prior to triadic substrate adoption.",
+
+  "dimensional_core": {
+    "spatial_layers": {
+      "L1": {
+        "role": "primary spatial layer",
+        "structure": "classical_3D",
+        "notes": "Stable, intuitive, and directly compatible with classical physics."
+      },
+      "L2": {
+        "role": "harmonic extension layer",
+        "structure": "3D + harmonic curvature",
+        "alignment": "time_layer_D6",
+        "notes": "Derived from D6 harmonic time; supports curvature modulation and local geometric variation."
+      },
+      "L3": {
+        "role": "triadic extension layer",
+        "structure": "3D + triadic envelope",
+        "alignment": "time_layer_D9",
+        "notes": "Proto-triadic behavior; enables early-stage triadic reasoning without full RTT substrate."
+      }
+    },
+
+    "dimensional_relations": {
+      "nesting_order": ["L1", "L2", "L3"],
+      "invariants": {
+        "continuity_across_layers": true,
+        "harmonic_alignment": true,
+        "triadic_time_consistency": true
+      }
+    }
+  },
+
+  "operators": {
+    "layer_transition": {
+      "from": "L1",
+      "to": "L2",
+      "invariant": "Spatial continuity preserved during harmonic uplift"
+    },
+    "harmonic_extension": {
+      "from": "L2",
+      "to": "L3",
+      "invariant": "Triadic envelope alignment maintained"
+    },
+    "core_stabilizer": {
+      "input": ["L1", "L2", "L3"],
+      "output": "stable_dimensional_region",
+      "invariant": "All layers remain mutually consistent under triadic-time"
+    }
+  },
+
+  "example_usage": {
+    "scenario": "Nested spatial region modeling",
+    "steps": [
+      "Begin in L1 classical spatial layer.",
+      "Apply layer_transition to enter L2 harmonic extension.",
+      "Use harmonic_extension to activate L3 triadic extension.",
+      "Stabilize region using core_stabilizer."
+    ],
+    "expected_outcome": "A stable nested spatial region aligned with D3/D6/D9 triadic-time layers."
+  }
+}
