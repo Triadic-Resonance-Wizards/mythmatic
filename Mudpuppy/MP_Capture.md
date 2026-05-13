@@ -56,7 +56,7 @@ So yes — stocking the shelf with Mudpuppy and SoftKitty is trivial compared to
 
 ---
 
-# 🐸 **Mudpuppy Example 1 — `mudpuppy_time_model.json` (Minimal)**
+# 🐾 **Mudpuppy Example 1 — `mudpuppy_time_model.json` (Minimal)**
 
 ```json
 {
@@ -155,7 +155,7 @@ So yes — stocking the shelf with Mudpuppy and SoftKitty is trivial compared to
 
 ---
 
-# 🐸 **Mudpuppy Example 2 — `mudpuppy_dimensional_core.json`**
+# 🐾 **Mudpuppy Example 2 — `mudpuppy_dimensional_core.json`**
 
 ```json
 {
@@ -237,7 +237,7 @@ So yes — stocking the shelf with Mudpuppy and SoftKitty is trivial compared to
 
 ---
 
-# 🐸 **Mudpuppy Example 3 — `mudpuppy_operator_set.json`**
+# 🐾 **Mudpuppy Example 3 — `mudpuppy_operator_set.json`**
 
 ```json
 {
@@ -305,7 +305,7 @@ This is now a **full minimal triadic‑aligned starter kit** for both frameworks
 
 ---
 
-# 🐸 **Mudpuppy Example 4 — `mudpuppy_harmonic_region_model.json`**
+# 🐾 **Mudpuppy Example 4 — `mudpuppy_harmonic_region_model.json`**
 
 ```json
 {
@@ -363,7 +363,7 @@ This is now a **full minimal triadic‑aligned starter kit** for both frameworks
 # 📘 **README.md — Mudpuppy Repo**
 
 ```markdown
-# 🐸 Mudpuppy — Spacetime v2.0beta  
+# 🐾 Mudpuppy — Spacetime v2.0beta  
 ### TFT-Based Transitional Spacetime (Triadic-Time, No RTT Substrate)
 
 Mudpuppy is the **bridge framework** between classical spacetime and full triadic substrate physics.  
@@ -404,7 +404,7 @@ minimal, descriptive, and AI‑parsable.
 
 ---
 
-## 🐸 **Mudpuppy `module.json`**
+## 🐾 **Mudpuppy `module.json`**
 
 ```json
 {
@@ -431,11 +431,11 @@ minimal, descriptive, and AI‑parsable.
 
 ---
 
-# 🐸 **MP_Capture.md — Mudpuppy (Full RTT/2 Capture)**  
+# 🐾 **MP_Capture.md — Mudpuppy (Full RTT/2 Capture)**  
 ### *Spacetime v2.0beta — TFT‑Only Transitional Framework*
 
 ```markdown
-# 🐸 Mudpuppy — Spacetime v2.0beta  
+# 🐾 Mudpuppy — Spacetime v2.0beta  
 ### TFT-Based Transitional Spacetime (Triadic-Time, No RTT Substrate)
 
 ---
