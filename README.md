@@ -1,6 +1,6 @@
 # 🐾 Mudpuppy — Spacetime v2.0beta
  
-📍 [ /docsbook.io/ ](https://triadic-resonance-wizards.docsbook.io/mythmatic/)
+- 📍 [ /docsbook.io/ ](https://triadic-resonance-wizards.docsbook.io/mythmatic/)
 
 ---
 
