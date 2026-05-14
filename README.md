@@ -3,6 +3,8 @@
 📍 *Paste into:*  
 `https://github.com/Triadic-Resonance-Wizards/mythmatic/blob/main/README.md`
 
+- [ /docsbook.io/ ](https://triadic-resonance-wizards.docsbook.io/mythmatic/Mudpuppy/)
+
 ---
 
 <img width="418" height="526" alt="Mudpuppy" src="https://github.com/user-attachments/assets/9447f67f-a4d2-49b9-adf2-328f5789fde1" />
