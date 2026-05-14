@@ -3,7 +3,7 @@
 📍 *Paste into:*  
 `https://github.com/Triadic-Resonance-Wizards/mythmatic/blob/main/README.md`
 
-- [ /docsbook.io/ ](https://triadic-resonance-wizards.docsbook.io/mythmatic/Mudpuppy/)
+- [ /docsbook.io/ ](https://triadic-resonance-wizards.docsbook.io/mythmatic/)
 
 ---
 
